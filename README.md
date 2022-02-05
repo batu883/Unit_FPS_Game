@@ -1,4 +1,4 @@
-# Unit_FPS_Game
+# Unity_FPS_Game
 
 In this project we made an FPS Survival Zombie Game with Unity.
 
