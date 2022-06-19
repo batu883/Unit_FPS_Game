@@ -13,4 +13,4 @@ ZombieRun file has all scripts,codes,assets,libraries etc. You should open it
 with C# Unity. ZombieRun.sln is the solution file.
 
 
-https://ikuedu-my.sharepoint.com/:f:/g/personal/1700003224_stu_iku_edu_tr/EmI8haro5XFMhhzHA-xxLJwBPR78ZVr6hVorWuJ21M8ORg?e=FC2tqN
+https://drive.google.com/drive/folders/1Gp9tqSGHTkBStMOWWC9Ctdv6UcOmppwW?usp=sharing
